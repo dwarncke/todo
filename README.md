@@ -1,24 +1,12 @@
-# README
+# TODO
+This is a simple single page todo list Application. It allows the user to create items on a todo list and check it off when the task has been finished. It was created using Ruby on Rails, Javascript, and a RESTful API. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Prerequisites
+- AJAX
+- Sublime Text Editor
+- Bootstrap
 
-Things you may want to cover:
+# Deployment
+Heroku App
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://todo-daniel-warncke.herokuapp.com/
